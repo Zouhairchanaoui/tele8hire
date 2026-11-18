@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tele 8 Hire</string>
+    <string name="channel_messages">الرسائل</string>
+    <string name="channel_messages_desc">إشعارات الرسائل الجديدة</string>
+    <string name="you">أنت</string>
+    <string name="error_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="error_text">تحقق من اتصالك ثم أعد المحاولة. سيُعاد التحميل تلقائياً عند عودة الاتصال.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="download_started">بدأ التنزيل</string>
+    <string name="download_done">تم حفظ الملف في التنزيلات</string>
+    <string name="download_failed">تعذّر حفظ الملف</string>
+</resources>

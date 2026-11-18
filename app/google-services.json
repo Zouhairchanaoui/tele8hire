@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955986469192",
+    "project_id": "tele-8-hire",
+    "storage_bucket": "tele-8-hire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955986469192:android:632c316fdd4adf1cca137d",
+        "android_client_info": {
+          "package_name": "x8.tele8hire.gs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMjCvg2Jdl2IU8skbD_puPDO5rooYtGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
